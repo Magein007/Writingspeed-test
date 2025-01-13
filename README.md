@@ -1,0 +1,6 @@
+This is the first somewhat proper program that I have made in python since starting to learn it four school weeks ago at the coding class in my high school. It's all in finnish, but it should still be understandable to some extent.
+What the app does is simply ask for an amount of words to write, and then it picks that amount of random words from a list of 500 words that was also randomly picked from the entire finnish vocabulary.
+Once you have written the words that it gives you, it'll display the words that it picked and also the words that you wrote so that you can compare the two and see where you made a mistake.
+After the word lists, it prints out a report that first shows you your writing speed in characters per minute and then words per minute. (Here words just mean strings of five letters and not individual words.)
+After the writing speed it tells you how many seconds it took you to write it overall, and also the amount of words you wrote correctly and how many you wrote incorrectly.
+Lastly it simply asks if you want to try again and the answer is either yes or no. Yes clears the information and then starts the program from the beginning and no just says bye bye and terminates the program after a short delay.
